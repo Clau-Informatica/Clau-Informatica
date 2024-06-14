@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Olá a todos, Claudemir aqui 👋🚀🚀🚀 </h1><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="80" height="80" align="center"/>
+<h1 align="center"> Olá a todos, Claudemir aqui 👋🚀 </h1>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/claudemir.ti)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Canal-Clau-Ensina)
