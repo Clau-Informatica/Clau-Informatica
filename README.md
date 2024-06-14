@@ -8,4 +8,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clau-informatica&theme=dracula)](https://github.com/clau-informatica/github-readme-stats)
 
 ![Python](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
-![Work](https://user-images.githubusercontent.com/74038190/216655818-2e7b9a31-49bf-4744-85a8-db8a2577c45c.gif)
+![Work](https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif)
