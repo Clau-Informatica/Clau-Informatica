@@ -4,3 +4,5 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Canal-Clau-Ensina)
 
 ![Clau's GitHub stats](https://github-readme-stats.vercel.app/api?username=clau-informatica&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clau-informatica)](https://github.com/clau-informatica/github-readme-stats)
