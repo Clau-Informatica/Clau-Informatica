@@ -7,6 +7,8 @@
 
 ![Clau's GitHub stats](https://github-readme-stats.vercel.app/api?username=clau-informatica&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clau-informatica&theme=dracula)](https://github.com/clau-informatica/github-readme-stats)      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clau-informatica&theme=dracula)](https://github.com/clau-informatica/github-readme-stats) 
+
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,vscode,c,windows,github,html,js,java,mysql,sqlite,ps,php&theme=light)](https://skillicons.dev)
 
 ![Work](https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif)
