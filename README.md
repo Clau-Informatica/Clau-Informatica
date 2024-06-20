@@ -1,6 +1,13 @@
 
 
-<h1 align="center"> Olá a todos, Claudemir aqui 👋🚀 </h1>
+<h1 align="center"> 👨‍💻 Claudemir Araujo 👋🚀 </h1>
+
+Técnico em Desenvolvimento de Software pelo IFPI - Instituto Federal do Piauí
+Graduado em Sistemas de Informação - UNINASSAU
+Graduando em Licenciatura em Computação na UFPI - Universidade Federal do Piauí
+Atualmente sou Empreendedor, Dev Python e tenho um canal no youtube onde busco ajudar pessoas que estão iniciando na programação e outras dicas de tecnologia.
+
+<h3> Contatos: </h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/claudemir.ti)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Canal-Clau-Ensina)
