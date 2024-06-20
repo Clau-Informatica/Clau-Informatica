@@ -1,11 +1,13 @@
 
 
-<h1 align="center"> 👨‍💻 Claudemir Araujo 👋🚀 </h1>
+<h1> 👨‍💻 Claudemir Araujo 👋🚀 </h1>
 
-<p> Técnico em Desenvolvimento de Software pelo IFPI - Instituto Federal do Piauí </p>
-Graduado em Sistemas de Informação - UNINASSAU
-Graduando em Licenciatura em Computação na UFPI - Universidade Federal do Piauí
-Atualmente sou Empreendedor, Dev Python e tenho um canal no youtube onde busco ajudar pessoas que estão iniciando na programação e outras dicas de tecnologia.
+<ul>
+<li> Técnico em Desenvolvimento de Software pelo IFPI - Instituto Federal do Piauí </li>
+<li> Graduado em Sistemas de Informação - UNINASSAU </li>
+<li> Graduando em Licenciatura em Computação na UFPI - Universidade Federal do Piauí </li>
+<li> Atualmente sou Empreendedor, Dev Python e tenho um canal no youtube onde busco ajudar pessoas que estão iniciando na programação e outras dicas de tecnologia. </li>
+</ul>
 
 <h3> Contatos: </h3>
 
