@@ -9,6 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clau-informatica&theme=dracula)](https://github.com/clau-informatica/github-readme-stats) 
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,php,html,js,pycharm,vscode,windows,github,mysql,sqlite,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,php,html,css,js,pycharm,vscode,windows,github,mysql,sqlite,ps&theme=light)](https://skillicons.dev)
 
-![Work](https://user-images.githubusercontent.com/74038190/214375888-0dc62524-fb43-43fd-9479-098b471d1b9c.gif)
+
